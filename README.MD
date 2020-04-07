@@ -45,8 +45,11 @@ _Create the Stack_
 docker stack deploy ChatApp --compose-file stack.yml
 ```
 
+_Testing the app_
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+![alt text](https://github.com/cealer/chat_signalr_scale_out/blob/master/Chats.png?raw=true)
+
+
 
 ### Deployment 📦
 
